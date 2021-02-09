@@ -4,3 +4,6 @@ Basic image processing for gases visualization with Python and the OpenCV comput
 Video Tutorial: https://www.youtube.com/watch?v=J0Ix4Wa3CJk
 
  ![](gif.gif)
+ 
+ 
+<img src="https://avatars0.githubusercontent.com/u/76776190?s=460&u=8f3943b46a0f1060a462d8a2922319edd9cd241c&v=4" width="100" height="100">
